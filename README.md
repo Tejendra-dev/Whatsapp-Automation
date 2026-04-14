@@ -234,8 +234,8 @@ Built for personal job applications only. Always review AI-generated emails befo
 B.E. Computer Science Engineering (Data Science) — Sathyabama University  
 Ex Prompt Engineer & AI Engineer Intern @ Cortexus.AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://www.linkedin.com/in/tejendra-ayyappa-reddy/)
+[![GitHub](https://github.com/Tejendra-dev)
 
 ---
 
