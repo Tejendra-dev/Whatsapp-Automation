@@ -1,0 +1,32 @@
+# Credentials — NEVER commit these
+.env
+
+# Generated output files — personal data
+jobs.csv
+generated_emails.csv
+send_log.txt
+raw_jobs.txt
+
+# Resume PDFs — personal documents
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
